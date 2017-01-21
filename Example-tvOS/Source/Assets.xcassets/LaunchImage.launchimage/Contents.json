@@ -5,7 +5,8 @@
       "idiom" : "tv",
       "extent" : "full-screen",
       "minimum-system-version" : "9.0",
-      "scale" : "1x"
+      "scale" : "1x",
+      "filename" : "Icon1920x1024.png"
     }
   ],
   "info" : {
